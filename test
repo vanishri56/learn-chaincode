@@ -1,0 +1,2 @@
+go get gopkg.in/ibm-blockchain/learn-chaincode.v2/finished
+import "gopkg.in/ibm-blockchain/learn-chaincode.v2/finished
